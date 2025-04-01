@@ -1,20 +1,26 @@
-.main-container{
-    border: solid 2px black;
-    margin: 10px;
+body{
+    margin: 0%;
 }
-.container1{
-display: flex;
-gap: 650px;
-padding-left: 20px;
-padding-right: 20px;
+.main-container {
+    margin: 0%;
 }
-.hello{
-font-size: 9;
+
+.container1 {
+    display: flex;
+    gap: 650px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
-.phoneline{
-padding-top: 30px;
+
+.hello {
+    font-size: 9;
 }
-.container2{
+
+.phoneline {
+    padding-top: 30px;
+}
+
+.container2 {
     display: flex;
     gap: 50px;
     font-size: 11px;
@@ -22,17 +28,22 @@ padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 100px;
 }
-#home{
+
+#home {
     color: orange;
 }
-.container3{
-    justify-content: center;
+
+.container3 {
+    text-align: center;
+    font-size: 12px;
 }
-#image1{
+
+#image1 {
     width: 100%;
     height: 100%;
 }
-#submit{
+
+#submit {
     width: 120px;
     height: 48px;
     border: solid 1px rgb(236, 236, 54);
@@ -40,7 +51,8 @@ padding-top: 30px;
     font-size: 10px;
     color: white;
 }
-.container4{
+
+.container4 {
     display: flex;
     gap: 80px;
     justify-content: center;
@@ -49,151 +61,218 @@ padding-top: 30px;
     padding-right: 60px;
     padding-left: 60px;
 }
-.riaad{
+
+.riaad {
     font-size: 20px;
 }
-#learn{
+
+#learn {
     color: orange;
 }
-#image2{
+
+#image2 {
     width: 100%;
     height: 50%;
     padding-top: 60px;
 }
-#image3{
+
+#image3 {
     width: 100%;
     height: 50%;
     padding-bottom: 60px;
-}.container-elit{
+}
+
+.container-elit {
     display: flex;
     gap: 25px;
 }
-.ipsum{
+
+.ipsum {
     font-size: 20px;
     padding-top: 15px;
 }
-.elit{
+
+.elit {
     font-size: 30px;
 }
-#since{
+
+#since {
     color: orange;
 }
-.logo{
+
+.logo {
     display: flex;
     gap: 80px;
     justify-content: center;
 }
-#logo1{
+
+#logo1 {
     width: 10%;
     height: 8%;
     padding-top: 28px;
 }
-#logo2{
+
+#logo2 {
     width: 12%;
     height: 10%;
 }
-#logo3{
+
+#logo3 {
     width: 14%;
     height: 12%;
 }
-#logo4{
+
+#logo4 {
     width: 14%;
-    height: 12%;
+    height: 18%;
 }
-.service{
+
+.service {
     text-align: center;
     padding-top: 40px;
     padding-top: 10px;
 }
-#service{
+
+#service {
     color: orange;
 }
-.ourservices{
+
+.ourservices {
     display: flex;
     gap: 60px;
     padding-left: 400px;
     padding-right: 400px;
 }
-#pack{
+
+#pack {
     font-size: 10px;
     padding-top: 30px;
     color: orange;
 }
-#pac{
+
+#pac {
     background-color: none;
     border: 0px solid;
     height: 10%;
     width: 20%;
 }
-#trans{
+
+.form-container {
+    display: flex;
+    padding-bottom: 40px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+
+}
+
+.form-cont {
+    display: flex;
+    gap: 30px;
+    width: 100%;
+    background-color: rgb(127, 127, 238);
+    padding-right: 500px;
+    padding-bottom: 80px;
+}
+
+.request {
+    background-color: #f57900;
+    font-size: 8px;
+    padding-right: 700px;
+    padding-left: 20px;
+    font-size: 12px;
+    justify-content: center;
+}
+
+#trans {
     background-color: none;
     border-radius: 2px solid;
-    border-radius: ;
+    border-radius: 0px;
     height: 20%;
     width: 30%;
 }
-#insu{
+
+#insu {
     background-color: orange;
     border: 0px solid;
     height: 10%;
-    width: 20%; 
+    width: 20%;
 }
-.helping{
+
+.helping {
     display: flex;
-    gap: 100px;
+    gap: 200px;
     padding-top: 50px;
     padding-bottom: 20px;
     padding-left: 150px;
     padding-right: 50px;
 }
-.way{
+
+.way {
     font-size: 12px;
     padding-left: 50px;
 }
-.client{
+
+.client {
     display: flex;
     gap: 10px;
 }
-.video{
-    width: 2%;
-    height: 5%;
-}
-.business{
-    display: flex;
-    gap: 300px;
+
+.video {
+    width: 20%;
+    height: 19%;
 }
 
-#chose{
+.business {
+    display: flex;
+    gap: 300px;
+    padding-left: 300px;
+    padding-right: 100px;
+}
+
+#chose {
     color: orange;
     font-size: 12px;
 }
-mover{
-    display: flex;
-    font-size: 8px;
+
+.mover {
+    font-size: 10px;
 }
-#help{
-    font-size: 16px;
+
+#help {
+    font-size: 14px;
 }
-.online{
+
+#free {
+    width: 100%;
+    height: 30%;
+}
+
+.online {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 70px;
     text-align: center;
 }
-#h3{
+
+#h3 {
     font-size: 4px;
 }
-.request{
+
+.request {
     text-align: center;
     font-size: 10px;
 }
-.testimonial{
+
+.testimonial {
     text-align: center;
 }
-#our{
+
+#our {
     color: orange;
 }
-.fa-quote-left{
+
+.fa-quote-left {
     width: 20%;
     height: 12%;
     color: #ffffff;
@@ -201,124 +280,1169 @@ mover{
     border: 1px;
     border-radius: 50px;
 }
-.customer{
+
+.customer {
     display: flex;
-    font-size: 10px;
-    padding-left: 500px;
-    padding-right: 500px;
-    gap: 100px;
-}
-#customers{
-    width: 50%;
-    height: 40%;
-    padding-top: ;
+    font-size: 12px;
+    padding-left: 40px;
+    padding-top: 60px;
+    padding-right: 30px;
+    gap: 80px;
 }
 
-#care{
+#customers {
+    width: 50%;
+    height: 40%;
+    border-radius: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#care {
     font-size: 10px;
     color: orange;
-    padding-bottom: 10px;
+    padding-bottom: 4px;
+    border-radius: 300px;
 }
-.updates{
+
+.updates {
     text-align: center;
     font-size: 14px;
-    padding-top: 200px;
+    padding-top: 50px;
 }
-#signup{
+
+#signup {
     color: orange;
     font-size: 12px;
 }
 
-.join{
-display: flex;
-padding-left: 300px;
-padding-right: 300px;
-padding-top: 100px;
-padding-bottom: 100px;
-gap: 400px;
-font-size: 20px;
+.join {
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    gap: 400px;
+    font-size: 20px;
 }
-.subscribe button{
+
+.subscribe button {
     height: 300%;
     width: 200%;
     color: white;
     background-color: #f57900;
 }
 
-.blog{
+.blog {
     text-align: center;
     font-size: 20px;
 }
-#news{
+
+#news {
     color: orange;
 }
-.movers{
+
+.movers {
     display: flex;
-    gap: 100px;
+    gap: 300px;
+    padding: 0px;
 }
-.usa{
+
+.usa {
     display: flex;
     padding-top: 50px;
-    padding-bottom: 50px;
+
     border: solid 2px orange;
     background-color: orange;
     gap: 300px;
 }
-.discover button{
+
+.discover button {
     height: 100%;
     width: 200%;
     color: white;
     background-color: #f57900;
 }
-.main{
-   display: flex;
-   gap: 400px;
-   background-color: rgb(49, 47, 47);
-   padding-bottom: 100px;
-}
-.phonenumber{
-    font-size: 14px;
-    padding-top: 20px;
-}
-.explore{
-    font-size: 20px;
-}
-.legal{
-    font-size: 20px;
-}
-.icon{
+
+.main {
     display: flex;
-    gap: 30px;
-    padding-top: 30px;
-   
+    gap: 200px;
+    background-color: rgb(49, 47, 47);
+    padding-bottom: 100px;
 }
-#book{
+
+.legal {
+    font-size: 12px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 8px;
+}
+
+.explore {
+    color: aliceblue;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.phonenumber {
+    color: aliceblue;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.icon {
+    display: flex;
+    gap: 50px;
+    padding-top: 30px;
+    width: 60%;
+    height: 20%;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-invision {
+    color: rgb(235, 235, 248);
+}
+
+f.a-facebook-f {
+    color: blue;
+}
+
+#book {
     color: orange;
 }
-#deliever{
+
+#deliever {
     width: 100%;
     height: 50%;
 }
-.fa-check{
+
+.fa-check {
     background-color: orange;
     border-radius: 10px;
     height: 2%;
     width: 5%;
     padding-top: 10px;
 }
-.tick{
-    display: flex;
-}
-.check{
-    display: flex;
-}
-.ticks{
-    display: flex;
 
+.tick {
+    display: flex;
 }
-.form{
 
+.check {
+    display: flex;
 }
-.left-container{
+
+.ticks {
+    display: flex;
+}
+
+.infor {
+    display: flex;
+}
+
+.left-container {
+    color: rgb(174, 174, 245);
+}
+
+.today {
     color: orange;
 }
+
+.storage {
+    background-color: blue;
+    width: 22%;
+}
+
+#copy {
+    text-align: center;
+}
+
+#pac {
+    border-radius: 100%;
+    width: 12%;
+    height: 8%;
+}
+
+
+@media (max-width:600px){
+   .main-container {
+   width: 100%;
+   overflow-x: hidden;
+   }
+   .main-container {
+    margin: 0%;
+}
+
+.container1 {
+    display: flex;
+    gap: 65px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.hello {
+    font-size: 8px;
+}
+
+.phoneline {
+    padding-top: 5px;
+}
+
+.container2 {
+    display: flex;
+    gap: 10px;
+    font-size: 9px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#home {
+    color: orange;
+}
+
+.container3 {
+    text-align: center;
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+#image1 {
+    width: 100%;
+    height: 50%;
+}
+
+#submit {
+    width: 15%;
+    height: 15px;
+    border: solid 1px rgb(236, 236, 54);
+    background-color: yellow;
+    font-size: 6px;
+    color: purple;
+}
+
+.container4 {
+    display: flow-root;
+    justify-content: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.riaad {
+    font-size: 12px;
+}
+
+#learn {
+    color: orange;
+}
+
+#image2 {
+    width: 100%;
+    height: 10%;
+    padding-top: 10px;
+}
+#image3 {
+    width: 100%;
+    height: 10%;
+    padding-bottom: 10px;
+}
+
+.container-elit {
+    display: flex;
+    gap: 8px; 
+}
+
+.ipsum {
+    font-size: 8px;
+    padding-top: 4px;
+}
+
+.elit {
+    font-size: 13px;
+}
+
+#since {
+    font-size: 12px;
+    color: rgb(207, 138, 10);
+}
+
+.logo {
+    display: flow-root;
+    text-align: justify;
+    padding-left: 10px;
+}
+
+#logo1 {
+    width: 30%;
+    height: 4%;
+}
+
+#logo2 {
+    width: 40%;
+    height: 6%;
+}
+
+#logo3 {
+    width: 50%;
+    height: 6%;
+}
+
+#logo4 {
+    width: 40%;
+    height: 8%;
+}
+
+.service {
+    text-align: center;
+    padding-top: 10px;
+    padding-top: 4px;
+}
+
+#service {
+    color: orange;
+}
+
+.ourservices {
+    display: flow-root;
+    gap: 10px;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+#pack {
+    font-size: 15px;
+    padding-top: 5px;
+    color: orange;
+    width: 100px;
+}
+
+#pac {
+    background-color: none;
+    border: 2px solid;
+    height: 50%;
+    width: 100%;
+}
+.packing{
+    font-size: 20px;
+}
+.ourservices{
+    font-size: 15px;
+    text-align: justify;
+}
+.form-container {
+    display: flow-root;
+    padding-bottom: 10px;
+    padding-bottom: 10px;
+    height: 10%;
+    width: 100%;
+
+}
+
+.form-cont {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    background-color: rgb(127, 127, 238);
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+.storage{
+    background-color: red;
+}
+.request {
+    background-color: #f57900;
+    font-size: 4px;
+    padding-right: 70px;
+    padding-left: 12px;
+    font-size: 8px;
+    justify-content: center;
+}
+
+#trans {
+    background-color: none;
+    border-radius: 2px solid;
+    border-radius: 0px;
+    height: 12%;
+    width: 50%;
+}
+
+#insu {
+    background-color: orange;
+    border: 0px solid;
+    height: 10%;
+    width: 20%;
+}
+
+.helping {
+    display: flow-root;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.way {
+    font-size: 8px;
+    padding-left: 10px;
+}
+
+.client {
+    display: flow-root;
+    gap: 6px;
+}
+
+.video {
+    width: 100%;
+    height: 20%;
+    padding-left: 50;
+}
+.cost{
+    width: 100%;
+}
+.magnis{
+    font-size: 16px;
+}
+.business {
+    display: flow-root;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+#chose {
+    color: orange;
+    font-size: 7px;
+}
+
+.mover {
+    font-size: 12px;
+}
+
+#help {
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+#free {
+    width: 100%;
+    height: 12%;
+}
+
+.online {
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+#h3 {
+    font-size: 4px;
+}
+
+.request {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.testimonial {
+    text-align: center;
+}
+
+#our {
+    color: rgb(177, 122, 19);
+}
+
+.fa-quote-left {
+    width: 10%;
+    height: 6%;
+    color: #ffffff;
+    background-color: #f57900;
+    border: 1px;
+    border-radius: 50px;
+}
+
+.customer {
+    display: flow-root;
+    font-size: 20px;
+    padding-left: 8px;
+    padding-top: 9px;
+    padding-right: 9px;
+    
+}
+
+#customers {
+    width: 20%;
+    height: 12%;
+    border-radius: 100%;
+    padding-right: 8px;
+    padding-left: 12px;
+}
+#care {
+    font-size: 20px;
+    padding-top: 50px;
+    color: rgb(207, 139, 11);
+    padding-bottom: 4px;
+    border-radius: 300px;
+}
+
+.updates {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+#signup {
+    color: rgb(192, 127, 5);
+    font-size: 15px;
+}
+
+.join {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 40px;
+    font-size: 20px;
+}
+
+.subscribe button {
+    height: 100%;
+    width: 60%;
+    color: white;
+    background-color: #f57900;
+}
+
+.blog {
+    text-align: center;
+    font-size: 15px;
+}
+
+#news {
+    color: rgb(141, 95, 9);
+}
+
+.movers {
+    display: flow-root;
+}
+#sells{
+    width: 100%;
+}
+.usa {
+    display: flow-root;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border: solid 2px orange;
+    background-color: orange;
+    gap: 10px;
+    padding-left: 20px;
+}
+
+.discover button {
+    height: 4%;
+    width: 40%;
+    color: white;
+    background-color: #f57900;
+}
+
+.main {
+    display: flow-root;
+    font-size: 40px;
+    padding-left: 50px;
+    background-color: rgb(49, 47, 47);
+    padding-bottom: 100px;
+}
+
+.legal {
+    /* font-size: 8px; */
+    text-align: center;
+    color: aliceblue;
+    padding-top: 4px;
+}
+
+.explore {
+    color: aliceblue;
+    /* font-size: 6px; */
+    padding-top: 5px;
+}
+
+.phonenumber {
+    color: aliceblue;
+    /* font-size: 6px; */
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.icon {
+    display: flex;
+    gap: 40px;
+    padding-top: 30px;
+    width: 10%;
+    height: 8%;
+    padding-top: 50px;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-invision {
+    color: rgb(235, 235, 248);
+}
+
+.a-facebook-f {
+    color: blue;
+}
+
+#book {
+    color: rgb(206, 85, 5);
+}
+
+#deliever {
+    width: 10%;
+    height: 10%;
+}
+
+.fa-check {
+    background-color: orange;
+    border-radius: 6px;
+    height: 2%;
+    width: 10%;
+    padding-top: 5px;
+}
+
+.tick {
+    display: flex;
+}
+
+.check {
+    display: flex;
+}
+
+.ticks {
+    display: flex;
+}
+
+.infor {
+    display: flex;
+}
+
+.today {
+    color: orange;
+}
+
+.storage {
+    background-color: blue;
+    width: 50%;
+    padding-left: 10px;
+}
+
+#copy {
+    text-align: center;
+    font-size: 18px;
+   
+}
+
+#pac {
+    border-radius: 100%;
+    width: 10%;
+    height: 5%;
+}
+}
+@media (min-width:601px) {
+    .main-container {
+        margin: 0%;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    
+    .container1 {
+        display: flex;
+        gap: 400px;
+        font-size: 15px;
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    
+    .hello {
+        font-size: 2px;
+    }
+    
+    .phoneline {
+        padding-top: 5px;
+    }
+    
+    .container2 {
+        display: flex;
+        width: 100%;
+        gap: 16px;
+       font-size: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+    
+    #home {
+        color: rgb(201, 76, 26);
+        font-size: 20px;
+    }
+    
+    .container3 {
+        display: flow-root;
+        text-align: center;
+        font-size: 50px;
+    }
+    
+    #image1 {
+        width: 100%;
+        height: 10%;
+    }
+    
+    #submit {
+        width: 50%;
+        height: 100px;
+        border: solid 1px rgb(236, 236, 54);
+        background-color: yellow;
+        font-size: 25px;
+        color: rgb(235, 9, 9);
+    }
+    
+    .container4 {
+        display: flex;
+        gap: 30px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 30px;
+    }
+    
+    .riaad {
+        /* font-size: 8px; */
+    }
+    
+    #learn {
+        color: rgb(173, 116, 9);
+    }
+    
+    #image2 {
+        width: 100%;
+        height: 100%;
+        /* padding-top: 10px; */
+    }
+    
+    #image3 {
+        width: 100%;
+        height: 100%;
+        /* padding-bottom: 10px; */
+    }
+    
+    .container-elit {
+        display: flex;
+        gap: 20px;
+        font-size: 10px;
+    }
+    
+    .ipsum {
+        /* font-size: 40px; */
+        padding-top: 4px;
+    }
+    
+    .elit {
+        /* font-size: 8px; */
+    }
+    
+    #since {
+        color: rgb(167, 57, 7);
+        font-size: 16px
+    }
+    
+    .logo {
+        display: flex;
+        gap: 10px;
+        padding-top: 300px;
+        justify-content: center;
+    }
+    
+    #logo1 {
+        width: 20%;
+        height: 20%;
+    }
+    
+    #logo2 {
+        width: 20%;
+        height: 6%;
+    }
+    
+    #logo3 {
+        width: 25%;
+        height: 6%;
+    }
+    
+    #logo4 {
+        width: 20%;
+        height: 8%;
+    }
+    
+    .service {
+        text-align: center;
+        padding-top: 10px;
+        padding-top: 4px;
+        font-size: 25px;
+    }
+    
+    #service {
+        color: rgb(236, 81, 9);
+    }
+    
+    .ourservices {
+        display: flex;
+        gap: 15px;
+        padding-left: 10px;
+        padding-right: 40px;
+    }
+    
+    #pack {
+        font-size: 15px;
+        padding-top: 10px;
+        color: orange;
+    }
+    
+    #pac {
+        background-color: none;
+        height: 26%;
+        width: 100%;
+    }
+    
+    .form-container {
+        display: flex;
+        padding-bottom: 10px;
+        padding-bottom: 10px;
+        height: 10%;
+        width: 100%;
+    
+    }
+    
+    .form-cont {
+        display: flex;
+        gap: 10px;
+        width: 100%;
+        background-color: rgb(127, 127, 238);
+        padding-right: 50px;
+        padding-bottom: 10px;
+    }
+    
+    .request {
+        background-color: #f57900;
+        font-size: 4px;
+        padding-right: 70px;
+        padding-left: 12px;
+        font-size: 8px;
+        justify-content: center;
+    }
+    
+    #trans {
+        background-color: none;
+        border-radius: 2px solid;
+        border-radius: 0px;
+        height: 12%;
+        width: 100%;
+    }
+    
+    #insu {
+        background-color: orange;
+        border: 0px solid;
+        height: 10%;
+        width: 20%;
+    }
+    
+    .helping {
+        display: flex;
+        font-size: 28px;
+        gap: 300px;
+        padding-top: 10px;
+        padding-bottom: 12px;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+    
+    .way {
+        font-size: 13px;
+        padding-left: 10px;
+    }
+    
+    .client {
+        display: flex;
+        gap: 6px;
+    }
+    
+    .video {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .business {
+        display: flex;
+        gap: 350px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+    
+    #chose {
+        color: rgb(134, 55, 9);
+        font-size: 15px;
+    }
+    
+    .mover {
+        font-size: 30px;   
+    }
+    #help {
+        font-size: 16px;
+    }
+    #free {
+        width: 100%;
+        height: 18%;
+    }
+    
+    .online {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    
+    #h3 {
+        font-size: 4px;
+    }
+    
+    .request {
+        text-align: center;
+        font-size: 6px;
+        font-size: 30px;
+    }
+    
+    .testimonial {
+        text-align: center;
+        font-size: 30px;
+    }
+    .form-container{
+        width: 100%;
+        height: 100%;
+       font-size: 30px;
+       gap: 0px;
+    }
+    #our {
+        color: orange;
+    }
+    
+    .fa-quote-left {
+        width: 12%;
+        height: 20%;
+        color: #ffffff;
+        background-color: #f57900;
+        border: 1px;
+        border-radius: 50px;
+    }
+    
+    .customer {
+        display: flex;
+        font-size: 17px;
+        padding-left: 8px;
+        padding-top: 9px;
+        padding-right: 9px;
+        gap: 10px;
+    }
+    
+    #customers {
+        width: 50%;
+        height: 30%;
+        border-radius: 100%;
+        padding-right: 8px;
+        padding-left: 12px;
+    }
+    
+    #care {
+        font-size: 15px;
+        color: rgb(233, 89, 6);
+        padding-bottom: 4px;
+        padding-top: 20px;
+        border-radius: 300px;
+    }
+    
+    .updates {
+        text-align: center;
+        font-size: 17px;
+        padding-top: 10px;
+    }
+    
+    #signup {
+        color: orange;
+        font-size: 16px;
+    }
+    
+    .join {
+        display: flex;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        gap: 40px;
+        font-size: 18px;
+    }
+    
+    .subscribe button {
+        height: 100%;
+        width: 100%;
+        color: white;
+        background-color: #f57900;
+    }
+    
+    .blog {
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    #news {
+        color: rgb(187, 76, 13);
+    }
+    
+    .movers {
+        display: flex;
+        gap: 10px;
+        padding: 0px;
+    }
+    #sells{
+        width: 100%;
+    }
+    .usa {
+        display: flex;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-size: 26px;
+        gap: 30px;
+        border: solid 2px orange;
+        background-color: orange;
+        gap: 200px;
+    }
+    
+    .discover button {
+        height: 70%;
+        width: 100%;
+        color: white;
+        background-color: #f57900;
+    }
+    
+    .main {
+        display: flex;
+        gap: 40px;
+        background-color: rgb(49, 47, 47);
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+    
+    .legal {
+        font-size: 18px;
+        text-align: center;
+        color: aliceblue;
+        padding-top: 4px;
+    }
+    
+    .explore {
+        color: aliceblue;
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    
+    .phonenumber {
+        color: aliceblue;
+        font-size: 18px;
+        padding-top: 8px;
+        padding-left: 10px;
+    }
+    
+    .icon {
+        display: flex;
+        gap: 30px;
+        padding-top: 3px;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .fa-youtube {
+        color: red;
+    }
+    
+    .fa-invision {
+        color: rgb(235, 235, 248);
+    }
+    
+    f.a-facebook-f {
+        color: blue;
+    }
+    
+    #book {
+        color: orange;
+    }
+    
+    #deliever {
+        width: 10%;
+        height: 10%;
+    }
+    
+    .fa-check {
+        background-color: orange;
+        border-radius: 6px;
+        height: 2%;
+        width: 10%;
+        padding-top: 5px;
+    }
+    
+    .tick {
+        display: flex;
+    }
+    
+    .check {
+        display: flex;
+    }
+    
+    .ticks {
+        display: flex;
+    }
+    
+    .infor {
+        display: flex;
+    }
+    
+    .left-container {
+        color: rgb(174, 174, 245);
+    }
+    
+    .today {
+        color: orange;
+    }
+    
+    .storage {
+        background-color: blue;
+        width: 10%;
+        height: 9%;
+        font-size: 16px;
+    }
+    
+    #copy {
+        text-align:center;
+        padding-right: 10px;
+    }
+    
+    #pac {
+        border-radius: 100%;
+        width: 10%;
+        height: 5%;
+    }
+    
+}
+    
